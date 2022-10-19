@@ -1,7 +1,7 @@
 # band-gap-ml-project
-Band Gap ML Project from my ML for Physicists class in Fall 2020.
+This is a repository containing the files to my final project in my Machine Learning for Physicists Class in the Fall of 2020. Here I used two different machine learning models in order to model the band-gap of various molecules. 
 
 
-## Task
+### Task
 
 
